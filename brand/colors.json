@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Sealien Robotics Innovation R&D Center Brand Colors",
+  "version": "4.1.0",
+  "source": "brand/theme/color_scheme.xml",
+  "theme_scheme_name": "自定义 70",
+  "palette": {
+    "brand_blue": {
+      "hex": "#0033CC",
+      "role": "accent1",
+      "usage": "Primary brand color, header bar, key highlights"
+    },
+    "deep_blue": {
+      "hex": "#002699",
+      "role": "primary_dark",
+      "usage": "Table headers, secondary cover panels, dark emphasis"
+    },
+    "navy_blue": {
+      "hex": "#001760",
+      "role": "dk2",
+      "usage": "Primary heading text, section titles, dark contrast"
+    },
+    "light_blue": {
+      "hex": "#E1E9FF",
+      "role": "lt2",
+      "usage": "Soft background tint, alternating table tint, node fill"
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "role": "lt1",
+      "usage": "Slide background, text on dark surfaces"
+    },
+    "black": {
+      "hex": "#000000",
+      "role": "dk1",
+      "usage": "Theme dark base"
+    }
+  },
+  "office_theme_slots": {
+    "dk1": "#000000",
+    "lt1": "#FFFFFF",
+    "dk2": "#001760",
+    "lt2": "#E1E9FF",
+    "accent1": "#0033CC",
+    "accent2": "#0068A8",
+    "accent3": "#069AAA",
+    "accent4": "#06AA8B",
+    "accent5": "#6DA804",
+    "accent6": "#FFCB05",
+    "hlink": "#0563C1",
+    "folHlink": "#954F72"
+  },
+  "ui_neutrals_and_lines": {
+    "muted_indigo": "#47588D",
+    "hairline_blue": "#C9D4F4"
+  },
+  "scientific_colormaps": {
+    "policy": "Inherit brand colors for UI/diagrams only; select perceptual/scientific colormaps (e.g. viridis, cividis, RdBu) by physical meaning for quantitative fields and experimental plots."
+  }
+}

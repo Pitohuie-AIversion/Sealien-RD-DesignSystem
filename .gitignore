@@ -1,0 +1,20 @@
+# Release staging artifacts (generated via automation/build_release.py)
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Office lock / temporary files
+~$*.pptx
+~$*.potx
+~$*.thmx
+~$*.docx
+~$*.xlsx
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,232 @@
+{
+  "repository": "Sealien-RD-DesignSystem",
+  "organization": "Sealien Robotics — Innovation R&D Center",
+  "template_id": "IRDC-PPT-001",
+  "version": "V4.1.0",
+  "status": "Released",
+  "asset_count": 37,
+  "assets": [
+    {
+      "path": ".github/workflows/validate-assets.yml",
+      "category": ".github",
+      "size_bytes": 594,
+      "sha256": "150ed3a8391b07d76bfaa6f71f9930f3ecfd1c6e0bf96e1679997a1795b48445"
+    },
+    {
+      "path": ".gitignore",
+      "category": "root",
+      "size_bytes": 262,
+      "sha256": "a6c15d583cc5fda1d69013aa729cd61d0235c9bfb71ae3b1bc4d112f3c64cb07"
+    },
+    {
+      "path": "automation/build_release.py",
+      "category": "automation",
+      "size_bytes": 5375,
+      "sha256": "b899ce0c693c16cc914fb98f2a7a13baac80fec567133b37fbfee4bb77a4b62a"
+    },
+    {
+      "path": "automation/README.md",
+      "category": "automation",
+      "size_bytes": 823,
+      "sha256": "a58d49df09c2086afabb75cc1781b80079c83aed097ab576e1a728d97cf6b3fc"
+    },
+    {
+      "path": "automation/validate_ppt.py",
+      "category": "automation",
+      "size_bytes": 9972,
+      "sha256": "817243b376f153bf62e463ce3a6e479702d1f12221ee13a2d4c20a3061700829"
+    },
+    {
+      "path": "brand/backgrounds/original_brand_gradient.png",
+      "category": "brand",
+      "size_bytes": 246277,
+      "sha256": "5fb37db2408999db22b5fe56b06ddcae6257f779fdc8194313180f9f7503bc37"
+    },
+    {
+      "path": "brand/colors.json",
+      "category": "brand",
+      "size_bytes": 1761,
+      "sha256": "62999d839495fe8d2f31b92cff6bea1ffc2a03ecdc9d114b04234829c6f590a7"
+    },
+    {
+      "path": "brand/logos/sealien_logo.png",
+      "category": "brand",
+      "size_bytes": 21281,
+      "sha256": "b0721cddbe07ba9d986c77e4ff04962dfe14242e445d35303879915b5ec07625"
+    },
+    {
+      "path": "brand/theme/color_scheme.xml",
+      "category": "brand",
+      "size_bytes": 709,
+      "sha256": "388ec468d8c06686001534034b8f93b1f1526df078edcb9fb3b8444de54838c1"
+    },
+    {
+      "path": "brand/theme/font_scheme.xml",
+      "category": "brand",
+      "size_bytes": 4714,
+      "sha256": "27fd8d7985e85cddcf41d0048c4b21438b0222525c1ff8c05f5dde46b1da6079"
+    },
+    {
+      "path": "brand/theme/Sealien_RD_Theme_V4.1.0.thmx",
+      "category": "brand",
+      "size_bytes": 382819,
+      "sha256": "05d5ac7d814e30ac49364e65a3f0c69a13c2a87c98c7bbce806c488f8cc355a7"
+    },
+    {
+      "path": "brand/theme/theme1.xml",
+      "category": "brand",
+      "size_bytes": 8387,
+      "sha256": "f4b6f9cb7813a32ff4b48e474616ea50135b467239a05c996342806f9e407355"
+    },
+    {
+      "path": "brand/typography.json",
+      "category": "brand",
+      "size_bytes": 1033,
+      "sha256": "ca416a10fd4428dd53132faab261ba1b92b071033b4bb6b8c5140b7a489a24fe"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "category": "root",
+      "size_bytes": 2218,
+      "sha256": "79a22600a5dd93cc1d49558580d420d566d893e3f70ae5ef705ed5e37dc39602"
+    },
+    {
+      "path": "components/architecture/README.md",
+      "category": "components",
+      "size_bytes": 909,
+      "sha256": "cd75a1860aff0e0410b7b23d120d05851d6e1e69b897b39712d171967467802a"
+    },
+    {
+      "path": "components/project-management/README.md",
+      "category": "components",
+      "size_bytes": 721,
+      "sha256": "9b9b72b0d165ae3d5b70e30efee603f2e57e34d98acb0a80d6aae5cac7dccaad"
+    },
+    {
+      "path": "components/robotics/README.md",
+      "category": "components",
+      "size_bytes": 685,
+      "sha256": "8e655f7bf809f521b4c2e78795905004bc7fce89f712fb7fe7f6c0a9072d63a5"
+    },
+    {
+      "path": "components/scientific-visualization/README.md",
+      "category": "components",
+      "size_bytes": 778,
+      "sha256": "4e2f6cb5d7b6550fd82b36852e56a9ca1b57f0fbd1c2e6d965aed9f9f419b8b9"
+    },
+    {
+      "path": "components/Sealien_RD_Components_V4.1.0.pptx",
+      "category": "components",
+      "size_bytes": 416329,
+      "sha256": "f6e89e4e17632a406b5e0cb577de0d37c73bcad13c4ad503e1b297ab2fcb6275"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "category": "root",
+      "size_bytes": 1473,
+      "sha256": "b11e580206b722cf2f1e479b35cb88c449e2b08d318d40b52f4d368d8fbca206"
+    },
+    {
+      "path": "guidelines/design-guidelines.md",
+      "category": "guidelines",
+      "size_bytes": 2825,
+      "sha256": "5406f4db3a9b5752d9ad34dde748f70a4b0fe71f18995d2a47ec045c6d415e48"
+    },
+    {
+      "path": "guidelines/presentation-guidelines.md",
+      "category": "guidelines",
+      "size_bytes": 4038,
+      "sha256": "0e62cc18bf909d3424a278a8ce139c0852be055996708d357d729339ac2f4328"
+    },
+    {
+      "path": "guidelines/release-checklist.md",
+      "category": "guidelines",
+      "size_bytes": 2081,
+      "sha256": "5c2ee2084de472311170b3f46592dd9f6d3bd30e8d96f4d8bf83ba4a4c510f6b"
+    },
+    {
+      "path": "guidelines/Sealien_RD_UserGuide_V4.1.0.pdf",
+      "category": "guidelines",
+      "size_bytes": 305568,
+      "sha256": "55cca16ae042e325e1b66a70900f981b5697149f042aeda51be10fbb9e562fb3"
+    },
+    {
+      "path": "previews/components.png",
+      "category": "previews",
+      "size_bytes": 798213,
+      "sha256": "14e3caff4f2b12f4f9ae17733be1e8f64d1c3c5090ffe1eb7a7c0abf3b242cf4"
+    },
+    {
+      "path": "previews/layouts.png",
+      "category": "previews",
+      "size_bytes": 1771276,
+      "sha256": "7a490b708a8f2fa2358ac28804d30e26687ca93d900bfd66e9989ea5b60c201f"
+    },
+    {
+      "path": "README.md",
+      "category": "root",
+      "size_bytes": 4592,
+      "sha256": "8ab4f2c428c961837617b023dcf04dc3d357ee8757526a1b659d658a5949a335"
+    },
+    {
+      "path": "SECURITY.md",
+      "category": "root",
+      "size_bytes": 1550,
+      "sha256": "9bf386c46207d3e37ba55a9f1dd6d110a7129d09a2f54164e1c021c365c08520"
+    },
+    {
+      "path": "skills/sealien-rd-ppt/prompts/deck-generation-prompt.md",
+      "category": "skills",
+      "size_bytes": 1011,
+      "sha256": "505794db9a75e76c8f90159b23ead1edb5fe5b8acd675316baad9f02500154a3"
+    },
+    {
+      "path": "skills/sealien-rd-ppt/references/layout-catalog.md",
+      "category": "skills",
+      "size_bytes": 4598,
+      "sha256": "60572efe2b6562b60ccbe5c139b1f64a7d3bcf48780c47883dfd78999a5207c6"
+    },
+    {
+      "path": "skills/sealien-rd-ppt/SKILL.md",
+      "category": "skills",
+      "size_bytes": 2931,
+      "sha256": "1dee88318d1ee9b416d9ff260eeb02aabb9316c6d71df468514fa6060a0b0eac"
+    },
+    {
+      "path": "templates/excel/README.md",
+      "category": "templates",
+      "size_bytes": 165,
+      "sha256": "ea82b93a67d5f87af1aa5542f8cb9a3253ce3749218ccfe2e49b587792037d90"
+    },
+    {
+      "path": "templates/latex/README.md",
+      "category": "templates",
+      "size_bytes": 179,
+      "sha256": "2caf0e5379d40d3da722a7c6a39bf47fb38560c716b25c7f2306b155f26e80c9"
+    },
+    {
+      "path": "templates/powerpoint/Sealien_RD_Master_V4.1.0.pptx",
+      "category": "templates",
+      "size_bytes": 439433,
+      "sha256": "a7550ca24a7fabd398e0cb52732b3d37d8a503803d34fba7e579bf90f1a98a45"
+    },
+    {
+      "path": "templates/powerpoint/Sealien_RD_Template_V4.1.0.potx",
+      "category": "templates",
+      "size_bytes": 439436,
+      "sha256": "3dc8ea3c1dcd652e3bdd74dc0135a0cdf550f5428da881ad061c91665897ffec"
+    },
+    {
+      "path": "templates/word/README.md",
+      "category": "templates",
+      "size_bytes": 216,
+      "sha256": "a1638698ff61b20286287ec756a1d359a07f3c8b193303c0ecf2fd692d8d1d3c"
+    },
+    {
+      "path": "validation/structural_validation.json",
+      "category": "validation",
+      "size_bytes": 6791,
+      "sha256": "1d10ff9b54e40523219f0a9a5c0c4325ef1d79d34912c5190a82d3c5dd513cbe"
+    }
+  ]
+}

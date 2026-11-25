@@ -1,0 +1,42 @@
+{
+  "name": "Sealien Robotics Innovation R&D Center Typography",
+  "version": "4.1.0",
+  "source": "brand/theme/font_scheme.xml",
+  "font_scheme_name": "Arial / Microsoft YaHei",
+  "families": {
+    "cjk": "Microsoft YaHei",
+    "latin_and_numeric": "Arial",
+    "major_font": {
+      "latin": "Arial",
+      "ea": "Microsoft YaHei"
+    },
+    "minor_font": {
+      "latin": "Arial",
+      "ea": "Microsoft YaHei"
+    }
+  },
+  "font_distribution_policy": "Team workstations must have Microsoft YaHei and Arial installed. Templates do not embed or distribute font binaries.",
+  "canvas": {
+    "aspect_ratio": "16:9",
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "width_emu": 12192000,
+    "height_emu": 6858000
+  },
+  "scale_pt": {
+    "cover_title": {
+      "min": 36,
+      "max": 44
+    },
+    "slide_title": {
+      "min": 26,
+      "max": 32
+    },
+    "body": {
+      "min": 18,
+      "max": 24
+    },
+    "chart_annotation_min": 14,
+    "footer_and_slide_number": 11
+  }
+}

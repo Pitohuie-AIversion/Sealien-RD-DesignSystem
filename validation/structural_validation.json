@@ -1,0 +1,284 @@
+{
+  "version": "4.1.0",
+  "layout_count": 21,
+  "sample_slide_count": 21,
+  "component_pages": 10,
+  "component_groups": 60,
+  "native_number_fields": 16,
+  "layout_instantiation": [
+    {
+      "layout": "01 封面｜研发主题",
+      "placeholders": 3,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "02 目录｜研究路径",
+      "placeholders": 10,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "03 章节｜技术坐标",
+      "placeholders": 3,
+      "types": [
+        "BODY (2)",
+        "TITLE (1)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "04 正文｜自由科研画布",
+      "placeholders": 3,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "OBJECT (7)"
+      ]
+    },
+    {
+      "layout": "05 对比｜技术方案评审",
+      "placeholders": 4,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "OBJECT (7)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "06 架构｜分层系统数据流",
+      "placeholders": 3,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "OBJECT (7)"
+      ]
+    },
+    {
+      "layout": "07 实验｜定量证据",
+      "placeholders": 7,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "CHART (8)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "08 工程｜现场记录",
+      "placeholders": 8,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "09 计划｜多泳道路线图",
+      "placeholders": 4,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "OBJECT (7)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "10 结束｜总结与决策",
+      "placeholders": 3,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "11 专业｜软件产品矩阵",
+      "placeholders": 12,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "12 专业｜神经网络架构",
+      "placeholders": 6,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "OBJECT (7)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "13 专业｜流场预测与误差",
+      "placeholders": 16,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "14 专业｜机器人系统分解",
+      "placeholders": 8,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "15 专业｜知识产权与成果",
+      "placeholders": 14,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "16 专业｜技术成熟度与验收",
+      "placeholders": 5,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)",
+        "TABLE (12)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "17 空白｜完全自由画布",
+      "placeholders": 0,
+      "types": []
+    },
+    {
+      "layout": "18 科研｜全幅图证据",
+      "placeholders": 4,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "19 科研｜双图对比",
+      "placeholders": 8,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "20 科研｜四图对比",
+      "placeholders": 10,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "PICTURE (18)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)",
+        "BODY (2)"
+      ]
+    },
+    {
+      "layout": "21 封面｜设备与科研影像",
+      "placeholders": 4,
+      "types": [
+        "TITLE (1)",
+        "BODY (2)",
+        "BODY (2)",
+        "PICTURE (18)"
+      ]
+    }
+  ],
+  "source_palette_exact_match": true,
+  "source_logo_and_gradient_bytes_identical": true,
+  "zip_xml_internal_references_and_unique_shape_ids": "passed",
+  "native_powerpoint_windows": "passed (Microsoft PowerPoint 16.0 Build 20326: POTX untitled instantiation, PPTX 21+10 slide/layout inspection, slide reorder & add page-number recalculation; fixed slideMaster1.xml cNvPr id 2147483671 -> 2)",
+  "libreoffice_main_rendered_pages": 21,
+  "libreoffice_component_rendered_pages": 10,
+  "libreoffice_potx_import_and_pdf_pages": 21,
+  "page_number_reorder_render": "passed: original slides 4 and 2 rendered as 1 and 2",
+  "manual_rendered_pages": 3,
+  "native_thmx_export": "passed (brand/theme/Sealien_RD_Theme_V4.1.0.thmx exported via PowerPoint 16 ppSaveAsOpenXMLTheme=31 and verified with ApplyTheme preserving 21 layouts)",
+  "native_accessibility_checker": "alt-text and title placeholders validated programmatically; run PowerPoint Review -> Check Accessibility on final project decks",
+  "font_rendering": "Verified on Windows Microsoft PowerPoint 16 (Arial + Microsoft YaHei) and Linux LibreOffice baseline",
+  "status": "Released",
+  "manual_pdf_fonts_embedded": true
+}
