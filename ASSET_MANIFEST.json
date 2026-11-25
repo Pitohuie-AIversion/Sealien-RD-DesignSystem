@@ -4,8 +4,14 @@
   "template_id": "IRDC-PPT-001",
   "version": "V4.1.0",
   "status": "Released",
-  "asset_count": 37,
+  "asset_count": 38,
   "assets": [
+    {
+      "path": ".gitattributes",
+      "category": "root",
+      "size_bytes": 101,
+      "sha256": "16f1c419f5d380568b50b7a29626c90e71c3fe02859685cfda86fd1fe06768e5"
+    },
     {
       "path": ".github/workflows/validate-assets.yml",
       "category": ".github",
@@ -45,8 +51,8 @@
     {
       "path": "brand/colors.json",
       "category": "brand",
-      "size_bytes": 1761,
-      "sha256": "62999d839495fe8d2f31b92cff6bea1ffc2a03ecdc9d114b04234829c6f590a7"
+      "size_bytes": 1702,
+      "sha256": "813f24ec449cb0f8534da561e887cca9d56c88e48deb8327780a0c40054ee54a"
     },
     {
       "path": "brand/logos/sealien_logo.png",
@@ -81,8 +87,8 @@
     {
       "path": "brand/typography.json",
       "category": "brand",
-      "size_bytes": 1033,
-      "sha256": "ca416a10fd4428dd53132faab261ba1b92b071033b4bb6b8c5140b7a489a24fe"
+      "size_bytes": 992,
+      "sha256": "23e5a0ea35a6dbaedfc2b3c215ae651ad390e2cfb25c9cf36259301a78a9f720"
     },
     {
       "path": "CHANGELOG.md",
@@ -225,8 +231,8 @@
     {
       "path": "validation/structural_validation.json",
       "category": "validation",
-      "size_bytes": 6791,
-      "sha256": "1d10ff9b54e40523219f0a9a5c0c4325ef1d79d34912c5190a82d3c5dd513cbe"
+      "size_bytes": 6508,
+      "sha256": "dfb22a1a157c41fbc66fd9bae2244945fe8e6410e8d5bdf30f508666d273899c"
     }
   ]
 }

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.potx binary
+*.pptx binary
+*.thmx binary
+*.pdf binary
+*.png binary
+*.zip binary
